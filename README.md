@@ -1,11 +1,11 @@
 Utilizing dataset from [Kaggle im_instagram_70k](https://www.kaggle.com/datasets/krpurba/im-instagram-70k)
 
-Authors: Kristo Radion Purba; David Asirvatham; Raja Kumar Murugesan
+```Authors: Kristo Radion Purba; David Asirvatham; Raja Kumar Murugesan
 Title: Influence Maximization Diffusion Models Based On Engagement and Activeness on Instagram
 Journal: Journal of King Saud University - Computer and Information Sciences
 Year: 2020
 Link: https://doi.org/10.1016/j.jksuci.2020.09.012
-
+```
 
 ```
 pos = Number of posts
